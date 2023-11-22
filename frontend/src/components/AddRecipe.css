@@ -1,0 +1,106 @@
+/* src/components/Todo.css */
+
+body {
+    background: rgb(255, 173, 65);
+}
+
+.addIngrTab{
+    background: rgb(218, 218, 218);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: auto;
+    height: 50px;
+    overflow-x:auto;
+    overflow-y: hidden;
+}
+
+/* .todo-container {
+    background: rgb(41, 33, 33);
+    width: 40vw;
+    margin: 10em auto;
+    border-radius: 15px;
+    padding: 20px 10px;
+    color: white;
+    border: 3px solid rgb(36, 110, 194);
+} */
+
+.ingredient {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+.ingredient button {
+    background: rgb(12, 124, 251);
+    border-radius: 5px;
+    margin: 0px 5px;
+    padding: 3px 5px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    float: right;
+}
+
+.header {
+    margin: 0.5em;
+    font-size: 2em;
+    text-align: center;
+}
+
+.add-ingredients input[type=text] {
+    margin: 2.5em 2em;
+    width: 80%;
+    outline: none;
+    border: none;
+    padding: 0.7em;
+}
+
+.addStepTab{
+    background: rgb(218, 218, 218);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: auto;
+    min-height: 50px;
+    height: auto;
+    overflow-x:auto;
+    overflow-y: hidden;
+}
+
+.step {
+    border: 1px solid black;
+    background: white;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+.step button {
+    background: rgb(12, 124, 251);
+    border-radius: 5px;
+    margin: 0px 5px;
+    padding: 3px 5px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    float: right;
+}
+
+.add-steps input[type=text] {
+    margin: 2.5em 2em;
+    width: 80%;
+    outline: none;
+    border: none;
+    padding: 0.7em;
+}
+

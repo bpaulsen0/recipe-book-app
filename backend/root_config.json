@@ -1,0 +1,5 @@
+{
+    "name": "RecipeBookApp",
+    "provider_region": "gcp-us-central1",
+    "deployment_model": "LOCAL"
+}

@@ -1,0 +1,9 @@
+{
+    "appId": "recipebookapp-poiot",
+    "appUrl": "https://realm.mongodb.com/groups/6392b572d275033f217a66b0/apps/6553e2780115f3bc84e685a2",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-central1.gcp.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-central1.gcp.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/6392b572d275033f217a66b0/explorer/RecipeBook/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
